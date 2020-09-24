@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./page-title.component.css']
 })
 export class PageTitleComponent implements OnInit {
-  title = 'Here is My Title';
+  title = 'Angular Lesson 1 Exercises';
 
   constructor() { }
 

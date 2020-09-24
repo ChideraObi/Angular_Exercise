@@ -1,6 +1,14 @@
-.chores h3 {
+.chores {
     color: rgb(131, 79, 131);
-    font: 1.8em;;
+    font-family: times new roman;
+}
+
+.chores ul {
     font-style: italic;
+}
+
+.chores h3 {
+    font: 1.8em;;
+    font-style: none;
     text-decoration: underline;
 }
